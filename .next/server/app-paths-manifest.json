@@ -1,0 +1,8 @@
+{
+  "/login/page": "app/login/page.js",
+  "/candidate/page": "app/candidate/page.js",
+  "/candidate/assessment/[id]/speaking/page": "app/candidate/assessment/[id]/speaking/page.js",
+  "/(recruiter)/dashboard/page": "app/(recruiter)/dashboard/page.js",
+  "/(recruiter)/dashboard/certificates/page": "app/(recruiter)/dashboard/certificates/page.js",
+  "/(recruiter)/dashboard/integrity/page": "app/(recruiter)/dashboard/integrity/page.js"
+}

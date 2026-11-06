@@ -1,0 +1,90 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(recruiter)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/page.js"
+    ],
+    "/(recruiter)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/layout.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/login/page.js"
+    ],
+    "/candidate/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/candidate/page.js"
+    ],
+    "/candidate/assessment/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/candidate/assessment/[id]/page.js"
+    ],
+    "/candidate/assessment/[id]/consent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/candidate/assessment/[id]/consent/page.js"
+    ],
+    "/candidate/assessment/[id]/device-check/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/candidate/assessment/[id]/device-check/page.js"
+    ],
+    "/candidate/assessment/[id]/instructions/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/candidate/assessment/[id]/instructions/page.js"
+    ],
+    "/candidate/assessment/[id]/speaking/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/candidate/assessment/[id]/speaking/page.js"
+    ],
+    "/(recruiter)/dashboard/jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/jobs/page.js"
+    ],
+    "/(recruiter)/dashboard/assessments/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/assessments/page.js"
+    ],
+    "/(recruiter)/dashboard/assessments/create/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/assessments/create/page.js"
+    ],
+    "/(recruiter)/dashboard/branding/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/branding/page.js"
+    ],
+    "/(recruiter)/dashboard/certificates/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/certificates/page.js"
+    ],
+    "/(recruiter)/dashboard/integrity/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(recruiter)/dashboard/integrity/page.js"
+    ]
+  }
+}
